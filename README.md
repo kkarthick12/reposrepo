@@ -5,6 +5,8 @@ Index of useful repos.
 This  repo [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is intended as a quick reference for markdown. 
 
 ## Reinforcement Learning
+A curated list of resources dedicated to reinforcement learning. [here](https://github.com/aikorea/awesome-rl)
+
 Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. [here](https://github.com/dennybritz/reinforcement-learning)
 
 ## Pentesting tools
